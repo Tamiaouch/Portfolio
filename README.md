@@ -5,8 +5,11 @@ https://github.com/Tamiaouch/Portfolio/tree/3be9fbdaa2408d7ebc6f1b0091c71c607297
 
 ### Todo List Manager
 Todo List Manager is written in Javascript. This application allows users to create a todo list, manage the list as they finish items, and load in new activities from other files. 
+https://github.com/Tamiaouch/Portfolio/tree/6d033b7fb83b1a35f2e71c195ecdc38ecc3f61b0/Todo%20List%20Manager
 
 ### Music Playlist
 Music Playlist is written in JavaScript and allows the user to add and play songs in their playlist.
 The user can also print out their song history, clear their song history, and delete from their song history
+https://github.com/Tamiaouch/Portfolio/tree/6d033b7fb83b1a35f2e71c195ecdc38ecc3f61b0/Music%20Playlist
+
 
