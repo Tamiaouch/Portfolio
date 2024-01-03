@@ -1,6 +1,7 @@
 # Portfolio
 ### Twitter Trends 
 Twitter trends is written in Javascript, replicating twitter this application allows the user to add tweets, access the count of their tweets, find their least and most frequent word used, and delete tweets of their choosing.
+https://github.com/Tamiaouch/Portfolio/tree/3be9fbdaa2408d7ebc6f1b0091c71c60729726ba/Music%20Playlist
 
 ### Todo List Manager
 Todo List Manager is written in Javascript. This application allows users to create a todo list, manage the list as they finish items, and load in new activities from other files. 
