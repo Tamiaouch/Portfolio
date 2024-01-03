@@ -13,6 +13,6 @@ The user can also print out their song history, clear their song history, and de
 https://github.com/Tamiaouch/Portfolio/tree/6d033b7fb83b1a35f2e71c195ecdc38ecc3f61b0/Music%20Playlist
 
 ### Climate Change in the Philippines
-Climate change in the Philipines is written in R. This website uses the Shinyapp package to create a platform that shows the user how Co2 production and land use has changed over the years in the Philippines ultimately comtributing to climate change. 
+Climate change in the Philipines is written in R. This website uses the Shinyapp package to create a platform that shows the user how Co2 production and land use has changed over the years in the Philippines ultimately contributing to climate change. 
 https://tamiaouch.shinyapps.io/a4-climate-change-Tamiaouch/?_ga=2.49256419.431096818.1677722087-172409258.1677176366
 
