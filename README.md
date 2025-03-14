@@ -1,4 +1,15 @@
 # Portfolio
+### Group7_geog328_final (HTML,CSS,JS)
+Create a webpage that visualized aggravated assault crimes in Seattle in 2020. Implemented an interactive heatmap with a summarized table feature. https://tamiaouch.github.io/group7_geog328_final/index.html
+### GEOG458_FINAL (HTML,CSS,JS)
+Create a webpage that visualized gun crimes in Seattle in 2010, 2015, and 2023. Implemented an interactive heatmap with datapoints describing the offense type. https://tngo316.github.io/GEOG458_FINAL/
+### Tamiaouch_geog328_lab04 (HTML,CSS,JS)
+Create a webpage with a interactive choropleth map of Covid cases in King County using Mapbox and geojson data
+https://tamiaouch.github.io/Tamiaouch_geog328_lab04/index.html
+### Model_Comparison (Python)
+Participated in a Kaggle-style machine learning competition where I developed and optimized models for a classification task. The objective was the train models with two different methods (logistic regression and random forest trees) set with different hyperparamters to evaluate what trained model performed best on unseen data.
+### Unemployment (QGIS)
+Visualize csv data to create a choropleth map of the unemployment population in Washington with a dot density layer of locations with high POC population in King County, making it efficient to analyze connection between POC communities and Unemployment.
 ### Music Playlist (Java)
 Allows the user to add and play songs, print or clear out their song history, and delete specific songs from their history. Implements Stacks, Queues, and Lists.
 ### TodoList Manager (Java)
