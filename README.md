@@ -1,6 +1,6 @@
 # Portfolio
 ### Digital inequity in King County in Relation to Public Health (ArcGIS,Excel)
-For our Sponsor Pcs4People we created a storymap that created an accessible platform to share data isights from multiple intersections of digital equity and public health. https://arcg.is/TOy111
+For our Sponsor Pcs4People we created a storymap that created an accessible platform to share data insights from the intersections between digital equity and public health. https://arcg.is/TOy111
 ### Group7_geog328_final (HTML,CSS,JS)
 Create a webpage that visualized aggravated assault crimes in Seattle in 2020. Implemented an interactive heatmap with a summarized table feature. https://tamiaouch.github.io/group7_geog328_final/index.html
 ### GEOG458_FINAL (HTML,CSS,JS)
